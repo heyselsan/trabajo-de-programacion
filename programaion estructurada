@@ -1,0 +1,16 @@
+Algoritmo aplicarIVA
+	Definir PRODUCTO Como Caracter
+	Definir Cantidad,valor_un,Importe,Total Como Entero
+	Definir IVA Como Real
+	Escribir Medidor energetico 
+	Leer PRODUCTO
+	Escribir 2
+	Leer CANTIDAD
+	Escribir 500 
+	Leer valor_un
+	Importe<- cantidad * valor_un
+	IVA<- 500 * 0.16
+	Total<- 500
+Escribir "usted compro:"  Medidor energetico 
+	Escribir "IVA: " 80 
+	Escribir "total a pagar" 500
